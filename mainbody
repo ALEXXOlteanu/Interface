@@ -8,7 +8,7 @@ namespace dfvb {
 	using namespace System::Windows::Forms;
 	using namespace System::Data;
 	using namespace System::Drawing;
-
+muie
 	/// <summary>
 	/// Summary for Form1
 	/// </summary>
